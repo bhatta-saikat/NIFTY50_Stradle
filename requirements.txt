@@ -1,0 +1,5 @@
+pyotp
+fyers_api
+fyers_apiv3
+pandas_ta
+setuptools
