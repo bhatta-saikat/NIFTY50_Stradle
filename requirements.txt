@@ -4,3 +4,5 @@ fyers_apiv3
 pandas_ta
 setuptools
 SmartApi
+SmartConnect
+SmartWebSocket
