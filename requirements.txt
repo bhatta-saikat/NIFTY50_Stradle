@@ -4,4 +4,3 @@ fyers_apiv3
 pandas_ta
 setuptools
 smartapi
-SmartConnect
